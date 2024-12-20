@@ -1,2 +1,2 @@
 # html-css
- Curso de HTML5 e CSS3 
+ Cuursoo de HTML e CSS do guanabara
